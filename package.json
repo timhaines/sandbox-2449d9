@@ -1,0 +1,1 @@
+{"name": "@timhaines/preview-e2e-fixture", "version": "0.0.0", "main": "index.js", "files": ["index.js"], "repository": {"type": "git", "url": "git+https://github.com/timhaines/sandbox-2449d9.git"}, "publishConfig": {"access": "public", "provenance": true}}
